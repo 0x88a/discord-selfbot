@@ -1,0 +1,8 @@
+{
+  "prefix": "!",
+  "token": "ODI3MDM5MzYyOTg1MzYxNDE5.YGVO2A.tV3YE6LZ3BC3Y8CHBVDsIkRKX5Q",
+  "error_webhook": {
+    "id": "troll",
+    "secret": "troll"
+  }
+}
